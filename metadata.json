@@ -1,0 +1,9 @@
+
+{
+  "name": "Skict",
+  "description": "Skict - Agence digitale et lifestyle premium offrant des services de branding, développement web et marketing de luxe. Développé par DJIVOEDO Arsène.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
